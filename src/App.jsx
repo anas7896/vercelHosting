@@ -11,7 +11,7 @@ const App = () => {
       <Button variant="contained">Contained</Button>
       <Button variant="outlined">Outlined</Button>
     </Stack>
-    <br /><br /><br /><br />
+    <br /><br /><br /><br /><br />
       <img width={500} src={car} alt="" />
     </div>
   )
